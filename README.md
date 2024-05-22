@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-##Navigation Menu with Side Panel
+## Navigation Menu with Side Panel
 This is a simple web project that demonstrates a responsive navigation menu with a side panel. The navigation menu includes a logo, a hamburger menu icon, and links to various sections of a website.
 
 Features
